@@ -1,0 +1,1 @@
+* * * * * echo "Running CRON Job Every Minute" >> /home/newuser/log.txt
